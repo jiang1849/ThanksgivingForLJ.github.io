@@ -8,7 +8,7 @@ new TypeIt("#lywry", {
     .delete(null, {
         delay: 500
     })
-    .type("感恩遇到你，感恩节快乐")
+    .type("感恩节快乐")
     .pause(3000)
     .go();
 
